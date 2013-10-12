@@ -1,0 +1,7 @@
+Author: Ram Kashyap
+
+Description: A Java ME application which forms the basic template of a canvas based application. Everything you need to write, to draw something on the screen, comes within the createBackground() method.
+
+Platform: Java Mobile Edition
+
+Tested: On Nokia Asha devices
